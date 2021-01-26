@@ -7,6 +7,9 @@
 <?php
 echo "Hello World!";
 ?>
+<?php
+echo "ammarin";
+?>
 
 </body>
 </html>

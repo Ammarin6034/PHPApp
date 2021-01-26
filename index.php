@@ -8,7 +8,7 @@
 echo "Hello World!";
 ?>
 <?php
-echo "ammarin";
+echo "ammarin""BuraphaUniversity";
 ?>
 
 </body>
